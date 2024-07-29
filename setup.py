@@ -22,3 +22,4 @@ setup(
         'Programming Language :: Python :: 3.7',
     ],
 )
+#test de la nouvelle branche future appelé "Future_branch"
